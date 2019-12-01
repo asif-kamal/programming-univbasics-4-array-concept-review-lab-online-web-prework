@@ -7,3 +7,7 @@ end
 def find_max_value(array)
   array.max_by do |integer|
 end
+
+def find_min_value(array)
+  array.min_by do |integer|
+end
